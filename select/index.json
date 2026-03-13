@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "エヴリシング",
+  "base_artist": "Ella Mai",
+  "createdAt": "2026-03-13T15:24:14.978727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エヴリシング・ハプンズ・トゥ・ミー",
+      "artist": "チェット・ベイカー",
+      "has_synced": false,
+      "path": "select/01_エヴリシング・ハプンズ・トゥ・ミー_チェット・ベイカー.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メイク・エヴリシング・OK",
+      "artist": "From Ashes to New",
+      "has_synced": true,
+      "path": "select/02_メイク・エヴリシング・OK_From_Ashes_to_New.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング - Dream Ami version",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/03_トライ・エヴリシング_-_Dream_Ami_version_Dream_Ami.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dream Ami / トライ・エヴリシング (Dream Ami version)",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/04_Dream_Ami___トライ・エヴリシング_(Dream_Ami_version)_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/05_トライ・エヴリシング_Dream_Ami.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング (ズーラシアン・フィルハーモニー・バージョン)",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/06_トライ・エヴリシング_(ズーラシアン・フィルハーモニー・バージョン)_Dream_Ami.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LOVE IS EVERYTHING (ラヴ・イズ・エヴリシング) / 木村昇",
+      "artist": "You & The Explosion Band",
+      "has_synced": false,
+      "path": "select/07_LOVE_IS_EVERYTHING_(ラヴ・イズ・エヴリシング)___木村昇_You_&_The_Explosion_Band.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トライ･エヴリシング (Dream Ami version) - TRY EVERYTHING (DREAM AMI VERSION)",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/08_トライ・エヴリシング_(Dream_Ami_version)_-_TRY_EVERYTHING_(DREAM_AMI_VERSION)_Dream_Ami.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング - Dream Ami version",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/09_トライ・エヴリシング_-_Dream_Ami_version_Dream_Ami.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング",
+      "artist": "Michael Giacchino",
+      "has_synced": true,
+      "path": "select/10_トライ・エヴリシング_Michael_Giacchino.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "﻿トライ・エヴリシング - Dream Ami version",
+      "artist": "Dream Ami",
+      "has_synced": false,
+      "path": "select/11_﻿トライ・エヴリシング_-_Dream_Ami_version_Dream_Ami.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング",
+      "artist": "U-KISS",
+      "has_synced": true,
+      "path": "select/12_トライ・エヴリシング_U-KISS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dream Ami / トライ・エヴリシング (Dream Ami version)",
+      "artist": "avex",
+      "has_synced": true,
+      "path": "select/13_Dream_Ami___トライ・エヴリシング_(Dream_Ami_version)_avex.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything (feat. John Legend)",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_(feat._John_Legend)_Ella_Mai.txt"
+    }
+  ]
+}
